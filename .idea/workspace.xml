@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54f01d19-77a4-49d6-a4f5-3b2379352b4f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html_report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/AddCustomerActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/CustomizedStatementActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/DeleteAccountActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/DeleteCustomerActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/EditAccountActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/EditCustomerActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/LoginActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/MiniStatementActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageActions/NewAccountActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/AddCustomerElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/CustomizedStatementElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/DeleteAccountElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/DeleteCustomerElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/EditAccountElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/EditCustomerElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/LoginElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/MiniStatementElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/PageElements/NewAccountElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/AddCustomerSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/CommonSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/CustomizedStatementSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/DeleteCustomerSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/EditAccountSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/EditCustomerSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/MiniStatementSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepDefinition/NewAccountSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestRunner/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/AddCustomer.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/CustomizedStatement.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/DeleteCustomer.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/EditAccount.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/EditCustomer.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/MiniStatement.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/feature/NewAccount.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="54f01d19-77a4-49d6-a4f5-3b2379352b4f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
